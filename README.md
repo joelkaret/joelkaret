@@ -1,5 +1,12 @@
 ## Hi there 👋
 I'm Joel.
+I enjoy making some random games, and have a couple discord bots.
+:D 🐨
+
+
+
+
+
 
 <!--
 **joelkaret/joelkaret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
